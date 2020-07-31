@@ -92,8 +92,3 @@ function renderText() {
 	var $text = $(text);
 	$text.appendTo('p');
 }
-
-// $(function(){
-//       var x = $("#status").text();
-//       if (x == "Забронирована") $('#botton').css({display: 'none'});
-//});
