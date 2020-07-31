@@ -1,0 +1,35 @@
+h1 {
+  font-size: 3em
+}
+
+input, button {
+  min-width: 200px;
+  min-height: 36px;
+  border: 1px solid grey;
+  border-radius: 5px;
+  box-shadow: 0 0 9px 0px #7c7c7c;
+  margin-bottom: 1em;
+}
+
+label, input, button {
+  display: block;
+}
+
+
+p {
+  border: 1px solid grey;
+  font-size: 1.5em;
+  max-width: 1000px;
+}
+
+.view {
+  margin-left: 50px;
+}
+
+.requestText {
+  background-color: #3CB371;
+}
+
+.updateText {
+  background-color: #00BFFF;
+}
